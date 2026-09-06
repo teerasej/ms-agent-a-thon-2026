@@ -1,0 +1,57 @@
+---
+layout: home
+title: Microsoft Agent-a-thon 2026
+titleTemplate: false
+
+hero:
+  name: Microsoft Agent-a-thon 2026
+  text: คู่มือกิจกรรมสำหรับผู้เรียน
+  tagline: ทดลองความสามารถใหม่ ใช้ Agent ที่ Microsoft เตรียมไว้ สร้าง Agent ของเราเอง และต่อยอดใน Hackathon
+  actions:
+    - theme: brand
+      text: เริ่มกิจกรรม
+      link: /01-frontier-transformation/
+    - theme: alt
+      text: Download ไฟล์ตัวอย่าง
+      link: /ms-agent-a-thon-2026/files/microsoft-agent-a-thon-2026-samples.zip
+
+features:
+  - title: Frontier Transformation
+    details: ทดลอง Work IQ, Memory, Excel managed Skill และ Researcher
+    link: /01-frontier-transformation/
+  - title: Microsoft-built Agents
+    details: ใช้ Researcher กับข้อมูลงานและเว็บ แล้วค้นหา Insight ด้วย Analyst
+    link: /02-get-started-with-agents/
+  - title: Agent Builder
+    details: สร้าง Agent ที่ใช้ Knowledge และ Tools สำหรับงานจริง
+    link: /03-agent-builder/
+  - title: Hackathon Kick-off
+    details: เลือกปัญหา สร้าง Prototype ทดสอบ และเตรียมนำเสนอ
+    link: /04-hackathon-kickoff/
+---
+
+แบบฝึกหัดนี้พลได้ออกแบบมาเพื่อให้พวกเราได้สัมผัสประสบการณ์ในความสามารถใหม่ใน Microsoft 365 copilot, ได้ทดลอง Agent ที่ Microsoft เตรียมไว้, ฝึกสร้าง Agent ของเราเอง และนำแนวคิดไปพัฒนาต่อใน Hackathon นะครับ
+
+> **หมายเหตุเรื่องสิทธิ์ใช้งาน:** บางความสามารถขึ้นอยู่กับ Microsoft 365 Copilot license, การตั้งค่าของผู้ดูแลระบบ และการเปิดใช้ฟีเจอร์ใน Tenant ดังนั้นหากพบว่าไม่มีความสามารถดังกล่าวในบัญชีของตัวเอง ก็สามารถดูตัวอย่างบนจอขณะพลอธิบายได้ครับ
+
+## ก่อนเริ่ม
+
+1. ลงชื่อเข้าใช้ [Microsoft 365 Copilot](https://m365.cloud.microsoft/chat) ด้วยบัญชีที่ผู้จัดเตรียมให้
+2. ใช้เครื่องคอมพิวเตอร์และ Web browser เวอร์ชันปัจจุบันที่มีอยู่ในเครื่อง
+3. Download [ไฟล์ตัวอย่างทั้งหมด](/files/microsoft-agent-a-thon-2026-samples.zip)
+4. แตก zip ไฟล์ตัวอย่างทั้งหมด และ upload folder ขึ้น one drive ของตัวเองเพื่อให้สามารถเข้าถึงไฟล์ได้สะดวก
+
+## Exploring path
+
+1. [Frontier Transformation with Microsoft 365 Copilot](/01-frontier-transformation/)
+   - EX-01 Work IQ
+   - EX-02 Memory
+   - EX-03 Excel managed Skill
+   - EX-04 Researcher: Critique and Council
+2. [Get Started with Agents Today](/02-get-started-with-agents/)
+   - EX-05 Researcher: Work and Web
+   - EX-06 Analyst
+3. [Hands-on Lab: Get Started with Agent Builder](/03-agent-builder/)
+   - EX-07 Busy Day Guide
+   - EX-08 Focus Time Campaign Kit
+4. [Hackathon Kick-off](/04-hackathon-kickoff/)
