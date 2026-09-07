@@ -40,6 +40,8 @@ Brief ที่แยกข่าวหรือประกาศสาธา�
 
 ## Scenario 2: เตรียมแผนสำหรับสัปดาห์นี้
 
+
+
 ### Practice 2: สรุป Meeting, Deadline และเอกสารที่ต้องอ่าน
 
 ใน Practice นี้ พวกเราจะให้ Researcher ตรวจข้อมูลการทำงานที่เข้าถึงได้ เพื่อสร้าง Weekly game plan ที่ช่วยเตรียมตัวก่อนเริ่มงาน
@@ -51,6 +53,17 @@ Brief ที่แยกข่าวหรือประกาศสาธา�
 
 ```text
 Help me prepare for my next 7 days. Group the plan by day.
+```
+
+> **บัญชีแบบใช้ร่วมกัน:** Practice นี้จะไม่ทำงานตามที่คาดหวังหากใช้บัญชี Microsoft 365 Copilot ร่วมกัน เนื่องจาก Researcher ไม่สามารถอ้างอิง Calendar และ Work content ส่วนบุคคลได้ ให้ Copy ข้อมูลตัวอย่างด้านล่างไปวางต่อท้าย Prompt เพื่อจำลอง Context แทน
+
+```text
+Sample work context:
+- Monday, 10:00 AM: Project kickoff meeting. Prepare the project brief and open questions.
+- Tuesday, 2:00 PM: Customer review meeting. Read the latest customer feedback summary.
+- Wednesday, 5:00 PM: Deadline to submit the budget proposal for manager approval.
+- Thursday, 9:30 AM: Team sync. Share project progress, risks, and next steps.
+- Friday, 3:00 PM: Deadline to complete the security training.
 ```
 
 3. ตรวจช่วงวันที่ในคำตอบว่าเริ่มจากวันที่ปัจจุบันและครอบคลุม 7 วัน

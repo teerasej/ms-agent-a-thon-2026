@@ -10,26 +10,9 @@
 
 ใน Practice นี้ พวกเราจะใช้ Copilot เพื่อค้นหาข้อมูลสำคัญสามรายการและตรวจสอบว่าแต่ละรายการมาจากไฟล์ใด
 
-#### Steps
-
-1. **หากยังไม่ได้อัพโหลดไฟล์ไปไว้ที่ OneDrive ตั้งแต่ตอนแรก**:
-   1. ให้ Download
-      1. [busy-workday-project-update.docx](/files/busy-workday-project-update.docx)
-      2. [busy-workday-status.xlsx](/files/busy-workday-status.xlsx)
-2. เปิด **Microsoft 365 Copilot** และกดเริ่ม New Chat ใหม่
-3. ให้แน่ใจว่าได้เปิดการทำงานของ Work IQ ใน Copilot โดยสังเกตจากด้านบนซ้าย (หากไม่พบ ให้ตรวจสอบกับผู้ดูแลระบบ)
-4. Copy Prompt ด้านล่างไปวาง
-
-```text
-บอกเกี่ยวกับแนวทางการเขียนประกาศภายในองค์กร จากไฟล์ล่าสุดหน่อย
-```
-5. ตรวจสอบคำตอบและแหล่งอ้างอิง
-
-#### Fall back หาก Copilot ไม่ได้ดึงหนึ่งในข้อมูลไฟล์ที่อัพโหลดไว้ใน onedrive มา ให้ทำตามขั้นตอนดังนี้
-
 1. กดเริ่ม New Chat ใหม่
-2. เลือก **Add content** และเลือกไฟล์ [busy-workday-project-update.docx](/files/busy-workday-project-update.docx) และ [busy-workday-status.xlsx](/files/busy-workday-status.xlsx) จากในรายการ
-   - หากไม่พบไฟล์ในรายการให้เลือก **Attach** แล้ว Upload ไฟล์ทั้งสองไฟล์จากเครื่องของพวกเราแทน
+2. เลือก **Add content** และ
+   - หากไม่พบไฟล์ในรายการให้เลือก **Attach** แล้ว Upload ไฟล์ [busy-workday-project-update.docx](/files/busy-workday-project-update.docx) และ [busy-workday-status.xlsx](/files/busy-workday-status.xlsx) จากในรายการ
 3. Copy Prompt ด้านล่างไปวาง
 
 ```text

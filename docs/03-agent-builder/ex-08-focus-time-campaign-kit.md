@@ -1,13 +1,10 @@
 # EX-08: สร้าง Focus Time Campaign Kit
 
-ทีมสื่อสารต้องสร้างประกาศและภาพที่ถูกต้องตามข้อมูลชุดเดิมซ้ำหลายครั้ง พวกเราจะสร้าง Agent ที่มีทั้ง Knowledge และ Tools เพื่อช่วยทำงานนี้
+ทีมสื่อสารในองค์กร มีหน้าที่ในการสร้างประกาศภายใน และภาพประกอบที่ถูกต้องตามข้อมูลชุดเดิมซ้ำหลายครั้ง พวกเราจะสร้าง Agent ที่มีทั้ง Knowledge และ Tools เพื่อช่วยทำงานนี้
 
 
-> **สิทธิ์ใช้งาน:** embedded Knowledge, **Create documents, charts, and code**, **Create images** และการ Create Agent `ต้องตรวจสอบก่อนเริ่มอบรม`
 
 ## Scenario: สร้างชุดสื่อสำหรับ Focus Time Pilot
-
-Knowledge เปรียบเหมือนคู่มือที่เพื่อนร่วมทีมอ่าน ส่วน Tools เปรียบเหมือนอุปกรณ์ที่เขาใช้สร้างชิ้นงาน
 
 ### Practice 1: Create the campaign specialist
 
