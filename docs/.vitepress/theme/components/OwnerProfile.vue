@@ -69,34 +69,32 @@ function iconPath(icon: OwnerSocialLink['icon']) {
 
 <style scoped>
 .owner-profile {
-  position: absolute;
-  top: 50%;
-  left: 50%;
   display: flex;
-  flex-direction: column;
   align-items: center;
-  width: min(292px, calc(100% - 20px));
-  padding: 18px;
+  gap: 12px;
+  width: fit-content;
+  margin-top: 18px;
+  padding: 8px 12px 8px 8px;
   border: 1px solid var(--vp-c-divider);
-  border-radius: 24px;
-  background: color-mix(in srgb, var(--vp-c-bg-soft) 88%, transparent);
-  box-shadow: 0 18px 46px rgba(15, 108, 189, 0.16);
-  text-align: center;
-  transform: translate(-50%, -50%);
-  backdrop-filter: blur(12px);
+  border-radius: 999px;
+  background: var(--vp-c-bg-soft);
+  text-align: left;
 }
 
 .owner-profile__portrait {
-  width: 148px;
-  height: 148px;
-  border: 4px solid var(--vp-c-bg);
+  flex: 0 0 auto;
+  width: 56px;
+  height: 56px;
+  border: 2px solid var(--vp-c-bg);
   border-radius: 50%;
-  box-shadow: 0 8px 24px rgba(12, 59, 94, 0.18);
   object-fit: cover;
 }
 
 .owner-profile__details {
-  padding-top: 10px;
+  display: grid;
+  grid-template-columns: auto auto;
+  column-gap: 12px;
+  align-items: center;
 }
 
 .owner-profile__name,
@@ -106,41 +104,49 @@ function iconPath(icon: OwnerSocialLink['icon']) {
 
 .owner-profile__name {
   color: var(--vp-c-text-1);
-  line-height: 1.35;
-  font-size: 17px;
+  line-height: 1.3;
+  font-size: 14px;
   font-weight: 700;
 }
 
 .owner-profile__title {
-  padding-top: 2px;
+  padding-top: 1px;
   color: var(--vp-c-text-2);
-  line-height: 1.4;
-  font-size: 14px;
+  line-height: 1.3;
+  font-size: 12px;
   font-weight: 500;
 }
 
 .owner-profile__socials {
   display: flex;
+  grid-column: 2;
+  grid-row: 1 / span 2;
   justify-content: center;
-  gap: 8px;
-  padding-top: 12px;
+  gap: 6px;
 }
 
 .owner-profile__social-link {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  min-height: 34px;
-  padding: 6px 10px;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
   border: 1px solid var(--vp-c-divider);
-  border-radius: 999px;
+  border-radius: 50%;
   background: var(--vp-c-bg);
-  color: var(--vp-c-text-1);
-  line-height: 1;
-  font-size: 12px;
-  font-weight: 600;
   text-decoration: none;
   transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+}
+
+.owner-profile__social-link span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
 .owner-profile__social-link:hover {
@@ -156,22 +162,27 @@ function iconPath(icon: OwnerSocialLink['icon']) {
 
 @media (max-width: 639px) {
   .owner-profile {
-    width: 250px;
-    padding: 14px;
-    border-radius: 20px;
+    gap: 9px;
+    margin: 16px auto 0;
+    padding: 7px 9px 7px 7px;
   }
 
   .owner-profile__portrait {
-    width: 132px;
-    height: 132px;
+    width: 48px;
+    height: 48px;
   }
 
   .owner-profile__details {
-    padding-top: 8px;
+    column-gap: 8px;
   }
 
-  .owner-profile__socials {
-    padding-top: 9px;
+  .owner-profile__name {
+    font-size: 13px;
+  }
+
+  .owner-profile__social-link {
+    width: 30px;
+    height: 30px;
   }
 }
 

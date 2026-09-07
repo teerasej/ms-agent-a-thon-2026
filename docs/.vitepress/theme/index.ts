@@ -7,6 +7,6 @@ export default {
   extends: DefaultTheme,
   Layout: () =>
     h(DefaultTheme.Layout, null, {
-      'home-hero-image': () => h(OwnerProfile),
+      'home-hero-info-after': () => h(OwnerProfile),
     }),
 }
