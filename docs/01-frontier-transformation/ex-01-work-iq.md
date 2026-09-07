@@ -2,7 +2,6 @@
 
 คุณกำลังจะเข้าประชุมอัปเดตโครงการ แต่มีเวลาอ่านข้อมูลเพียงไม่กี่นาที ให้ Copilot ช่วยค้นหาความคืบหน้า ความเสี่ยง และสิ่งที่ต้องทำต่อจากไฟล์ที่ได้รับ
 
-
 > **สิทธิ์ใช้งาน:** การ Upload ไฟล์
 
 ## Scenario: เตรียมตัวก่อนประชุม
@@ -13,18 +12,25 @@
 
 #### Steps
 
-1. Download [busy-workday-project-update.docx](/files/busy-workday-project-update.docx) และ [busy-workday-status.xlsx](/files/busy-workday-status.xlsx)
-2. เปิด **Microsoft 365 Copilot** และเริ่ม Chat ใหม่
-3. ให้แน่ใจว่าได้เปิดการทำงานของ Work IQ ใน Copilot (หากไม่พบ ให้ตรวจสอบกับผู้ดูแลระบบ) โดยสังเกตจากด้านบนซ้าย
+1. **หากยังไม่ได้อัพโหลดไฟล์ไปไว้ที่ OneDrive ตั้งแต่ตอนแรก**:
+   1. ให้ Download
+      1. [busy-workday-project-update.docx](/files/busy-workday-project-update.docx)
+      2. [busy-workday-status.xlsx](/files/busy-workday-status.xlsx)
+2. เปิด **Microsoft 365 Copilot** และกดเริ่ม New Chat ใหม่
+3. ให้แน่ใจว่าได้เปิดการทำงานของ Work IQ ใน Copilot โดยสังเกตจากด้านบนซ้าย (หากไม่พบ ให้ตรวจสอบกับผู้ดูแลระบบ)
 4. Copy Prompt ด้านล่างไปวาง
 
 ```text
 บอกเกี่ยวกับแนวทางการเขียนประกาศภายในองค์กร จากไฟล์ล่าสุดหน่อย
 ```
 5. ตรวจสอบคำตอบและแหล่งอ้างอิง
-6. เลือก **Add content** และเลือกไฟล์ [busy-workday-project-update.docx](/files/busy-workday-project-update.docx) และ [busy-workday-status.xlsx](/files/busy-workday-status.xlsx) จากในรายการ
+
+#### Fall back หาก Copilot ไม่ได้ดึงหนึ่งในข้อมูลไฟล์ที่อัพโหลดไว้ใน onedrive มา ให้ทำตามขั้นตอนดังนี้
+
+1. กดเริ่ม New Chat ใหม่
+2. เลือก **Add content** และเลือกไฟล์ [busy-workday-project-update.docx](/files/busy-workday-project-update.docx) และ [busy-workday-status.xlsx](/files/busy-workday-status.xlsx) จากในรายการ
    - หากไม่พบไฟล์ในรายการให้เลือก **Attach** แล้ว Upload ไฟล์ทั้งสองไฟล์จากเครื่องของพวกเราแทน
-7. Copy Prompt ด้านล่างไปวาง
+3. Copy Prompt ด้านล่างไปวาง
 
 ```text
 จากไฟล์ที่แนบ ช่วยค้นหาและสรุปเพียง 3 เรื่อง:
@@ -37,7 +43,7 @@
 หากไม่พบข้อมูลในไฟล์ ให้บอกว่าไม่พบและอย่าคาดเดา
 ```
 
-5. อ่านคำตอบและเปิดไฟล์ต้นทางเพื่อตรวจสอบข้อมูลสำคัญ
+4. อ่านคำตอบและเปิดไฟล์ต้นทางเพื่อตรวจสอบข้อมูลสำคัญ
 
 #### Checkpoint
 
@@ -48,7 +54,5 @@
 #### Expected Output
 
 สรุปสั้นที่ช่วยเตรียมประชุม พร้อมแหล่งข้อมูลสำหรับตรวจสอบ
-
-
 
 [← กลับหน้า Section](./) | [EX-02: Memory →](./ex-02-memory)

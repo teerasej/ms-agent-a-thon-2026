@@ -52,6 +52,7 @@ features:
 2. ใช้เครื่องคอมพิวเตอร์และ Web browser เวอร์ชันปัจจุบันที่มีอยู่ในเครื่อง
 3. Download [ไฟล์ตัวอย่างทั้งหมด](/files/microsoft-agent-a-thon-2026-samples.zip)
 4. แตก zip ไฟล์ตัวอย่างทั้งหมด และ upload folder ขึ้น one drive ของตัวเองเพื่อให้สามารถเข้าถึงไฟล์ได้สะดวก
+   1. หากใช้ Account ที่แชร์กันใช้ ให้สร้าง folder ใหม่ใน OneDrive โดยตั้งชื่อ folder เป็นชื่อตัวเองแล้วค่อยอัพโหลดไฟล์
 
 ## Exploring path
 

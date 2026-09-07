@@ -6,8 +6,8 @@ Microsoft มี Agent ที่เตรียมไว้สำหรับง
 
 ## Exercises
 
-1. [EX-05: ทดลอง Researcher กับข้อมูลงานและเว็บ](./ex-05-researcher-work-and-web) — 10–12 นาที
-2. [EX-06: ค้นหา Insight ด้วย Analyst](./ex-06-analyst) — 6–8 นาที
+1. [EX-05: ทดลอง Researcher กับข้อมูลงานและเว็บ](./ex-05-researcher-work-and-web)
+2. [EX-06: ค้นหา Insight ด้วย Analyst](./ex-06-analyst)
 
 ## ไฟล์ที่ใช้
 

@@ -11,7 +11,7 @@
 
 #### Steps
 
-ใน Practice นี้ พวกเราจะใช้ภาษาธรรมดาเพื่อสร้าง Configuration เริ่มต้นของ Agent
+ใน Practice นี้ พวกเราจะใช้วิธีบรรยายหน้าที่ของ Agent ด้วยภาษาทั่วไปเพื่อสร้าง การตั้งค่าเริ่มต้นของ Agent
 
 1. เปิด **Microsoft 365 Copilot Chat**
 2. เลือก **New agent**
@@ -68,7 +68,7 @@ What should I postpone until later?
 - ไฟล์ปรากฏใน Knowledge และ Upload เสร็จสมบูรณ์
 - มี Starter Prompts สามรายการ
 
-> **หมายเหตุ:** การตั้งค่านี้ช่วยให้ Agent ให้ความสำคัญกับ Knowledge ที่กำหนด แต่ Agent Builder ไม่รับประกันการปิดกั้น General AI knowledge ทั้งหมด
+> **หมายเหตุ:** การตั้งค่า **Only use specified sources** นี้ช่วยให้ Agent ให้ความสำคัญกับ Knowledge ที่กำหนด แต่ไม่ได้เป็นการปิดกั้นให้ Agent ใช้ความรู้พื้นฐานที่มีนะ
 
 ### Practice 3: Test and Create
 
