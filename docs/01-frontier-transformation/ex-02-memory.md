@@ -24,7 +24,7 @@
 ```
 
 3. เริ่ม Conversation ใหม่
-4. เลือกหรือแนบไฟล์ [busy-workday-project-update.docx](/files/busy-workday-project-update.docx)
+4. เลือกหรือแนบไฟล์ <a href="/ms-agent-a-thon-2026/files/busy-workday-project-update.docx" download="busy-workday-project-update.docx">busy-workday-project-update.docx</a>
 5. Copy Prompt ทดสอบไปวาง
 
 ```text

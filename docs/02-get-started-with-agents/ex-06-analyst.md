@@ -14,7 +14,7 @@
 
 #### Steps
 
-1. Download [busy-workday-service-data.xlsx](/files/busy-workday-service-data.xlsx)
+1. Download <a href="/ms-agent-a-thon-2026/files/busy-workday-service-data.xlsx" download="busy-workday-service-data.xlsx">busy-workday-service-data.xlsx</a>
 2. เปิด **Microsoft 365 Copilot** แล้วเลือก **Analyst** ใต้ **Agents**
 3. เลือกปุ่ม **+** หรือ **Attach content** แล้ว Upload Workbook
 4. Copy Prompt ด้านล่างไปวาง

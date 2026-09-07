@@ -11,6 +11,6 @@ Microsoft มี Agent ที่เตรียมไว้สำหรับง
 
 ## ไฟล์ที่ใช้
 
-- [Service data](/files/busy-workday-service-data.xlsx)
+- <a href="/ms-agent-a-thon-2026/files/busy-workday-service-data.xlsx" download="busy-workday-service-data.xlsx">Service data</a>
 
 [← Section ก่อนหน้า](/01-frontier-transformation/) | [ไป Section ถัดไป: Agent Builder →](/03-agent-builder/)

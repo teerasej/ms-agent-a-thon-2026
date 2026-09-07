@@ -41,7 +41,7 @@ It should:
 
 ใน Practice นี้ พวกเราจะเพิ่มข้อมูลที่ Agent ต้องรู้และเปิดความสามารถที่ใช้สร้างชิ้นงาน
 
-1. Upload [focus-time-pilot-brief.docx](/files/focus-time-pilot-brief.docx) และ [internal-communication-guide.pdf](/files/internal-communication-guide.pdf) ใน **Knowledge**
+1. Upload <a href="/ms-agent-a-thon-2026/files/focus-time-pilot-brief.docx" download="focus-time-pilot-brief.docx">focus-time-pilot-brief.docx</a> และ <a href="/ms-agent-a-thon-2026/files/internal-communication-guide.pdf" download="internal-communication-guide.pdf">internal-communication-guide.pdf</a> ใน **Knowledge**
 2. เปิด **Only use specified sources**
 3. เปิด **Create documents, charts, and code**
 4. เปิด **Create images**

@@ -13,7 +13,7 @@
 
 #### Steps
 
-1. ไปที่ One Drive ที่เราอัพโหลดไฟล์ก่อนหน้านี้ และเปิด [busy-workday-challenges.xlsx](/files/busy-workday-challenges.xlsx)
+1. ไปที่ One Drive ที่เราอัพโหลดไฟล์ก่อนหน้านี้ และเปิด <a href="/ms-agent-a-thon-2026/files/busy-workday-challenges.xlsx" download="busy-workday-challenges.xlsx">busy-workday-challenges.xlsx</a>
 2. เปิด **Copilot** ใน Excel
 3. Copy Prompt ภาษาอังกฤษด้านล่างไปวาง
 

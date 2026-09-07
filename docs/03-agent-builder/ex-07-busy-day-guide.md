@@ -44,7 +44,7 @@ It should:
 
 ใน Practice นี้ พวกเราจะเพิ่มคู่มือเป็น Knowledge และเตรียมคำถามเริ่มต้นให้ผู้ใช้
 
-1. ใน **Knowledge** ให้ Upload [busy-workday-guide.docx](/files/busy-workday-guide.docx)
+1. ใน **Knowledge** ให้ Upload <a href="/ms-agent-a-thon-2026/files/busy-workday-guide.docx" download="busy-workday-guide.docx">busy-workday-guide.docx</a>
 2. เปิด **Only use specified sources** เพื่อให้ Agent ให้ความสำคัญกับ Source ที่กำหนด
 3. เพิ่ม **Starter Prompts** สามรายการ
 

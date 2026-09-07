@@ -11,8 +11,8 @@
 
 ## ไฟล์ที่ใช้
 
-- [Busy Workday Guide](/files/busy-workday-guide.docx)
-- [Focus Time Pilot Brief](/files/focus-time-pilot-brief.docx)
-- [Internal Communication Guide](/files/internal-communication-guide.pdf)
+- <a href="/ms-agent-a-thon-2026/files/busy-workday-guide.docx" download="busy-workday-guide.docx">Busy Workday Guide</a>
+- <a href="/ms-agent-a-thon-2026/files/focus-time-pilot-brief.docx" download="focus-time-pilot-brief.docx">Focus Time Pilot Brief</a>
+- <a href="/ms-agent-a-thon-2026/files/internal-communication-guide.pdf" download="internal-communication-guide.pdf">Internal Communication Guide</a>
 
 [← Section ก่อนหน้า](/02-get-started-with-agents/) | [ไป Hackathon Kick-off →](/04-hackathon-kickoff/)

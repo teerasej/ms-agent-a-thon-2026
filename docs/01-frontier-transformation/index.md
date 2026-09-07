@@ -12,8 +12,8 @@
 
 ## ไฟล์ที่ใช้
 
-- [Project update](/files/busy-workday-project-update.docx)
-- [Project status](/files/busy-workday-status.xlsx)
-- [Workday challenges](/files/busy-workday-challenges.xlsx)
+- <a href="/ms-agent-a-thon-2026/files/busy-workday-project-update.docx" download="busy-workday-project-update.docx">Project update</a>
+- <a href="/ms-agent-a-thon-2026/files/busy-workday-status.xlsx" download="busy-workday-status.xlsx">Project status</a>
+- <a href="/ms-agent-a-thon-2026/files/busy-workday-challenges.xlsx" download="busy-workday-challenges.xlsx">Workday challenges</a>
 
 [← กลับหน้าแรก](/) | [ไป Section ถัดไป: Get Started with Agents Today →](/02-get-started-with-agents/)

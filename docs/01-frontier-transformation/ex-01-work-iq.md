@@ -12,7 +12,7 @@
 
 1. กดเริ่ม New Chat ใหม่
 2. เลือก **Add content** และ
-   - หากไม่พบไฟล์ในรายการให้เลือก **Attach** แล้ว Upload ไฟล์ [busy-workday-project-update.docx](/files/busy-workday-project-update.docx) และ [busy-workday-status.xlsx](/files/busy-workday-status.xlsx) จากในรายการ
+   - หากไม่พบไฟล์ในรายการให้เลือก **Attach** แล้ว Upload ไฟล์ <a href="/ms-agent-a-thon-2026/files/busy-workday-project-update.docx" download="busy-workday-project-update.docx">busy-workday-project-update.docx</a> และ <a href="/ms-agent-a-thon-2026/files/busy-workday-status.xlsx" download="busy-workday-status.xlsx">busy-workday-status.xlsx</a> จากในรายการ
 3. Copy Prompt ด้านล่างไปวาง
 
 ```text
