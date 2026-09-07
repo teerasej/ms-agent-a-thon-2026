@@ -2,7 +2,7 @@
 
 สร้าง Agent ที่ช่วยแก้ปัญหาซึ่งเกิดขึ้นจริงและเกิดซ้ำในงานของทีม ให้ความสำคัญกับ Use case ที่ทำสำเร็จได้ในเวลาที่มี แม้ช่วยประหยัดเวลาเพียงเล็กน้อย แต่เกิดประโยชน์บ่อยครั้งก็มีคุณค่า
 
-**[Download Hack Pack template and example (.pptx)](/files/agent-hackathon-hack-pack-template-and-example.pptx)**
+<strong><a href="/ms-agent-a-thon-2026/files/agent-hackathon-hack-pack-template-and-example.pptx" download="agent-hackathon-hack-pack-template-and-example.pptx">Download Hack Pack template and example (.pptx)</a></strong>
 
 ## 1. Form your team
 

@@ -6,7 +6,7 @@
 
 ## เริ่มต้น
 
-1. Download [Hack Pack template and example](/files/agent-hackathon-hack-pack-template-and-example.pptx)
+1. Download <a href="/ms-agent-a-thon-2026/files/agent-hackathon-hack-pack-template-and-example.pptx" download="agent-hackathon-hack-pack-template-and-example.pptx">Hack Pack template and example</a>
 2. เปิด [คำแนะนำ Hackathon](./hackathon-instructions)
 3. กำหนด Team name และแบ่งหน้าที่
 
