@@ -3,6 +3,18 @@ layout: home
 title: Microsoft Agent-a-thon 2026
 titleTemplate: false
 
+owner:
+  name: Teerasej Jiraphatchandej
+  title: Microsoft MVP
+  image: /images/teerasej-jiraphatchandej.jpg
+  socials:
+    - label: YouTube
+      icon: youtube
+      link: https://youtube.com/teerasej
+    - label: Facebook
+      icon: facebook
+      link: https://facebook.com/teerasej
+
 hero:
   name: Microsoft Agent-a-thon 2026
   text: คู่มือกิจกรรมสำหรับผู้เรียน
